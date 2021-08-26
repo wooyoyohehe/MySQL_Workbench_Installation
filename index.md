@@ -1,3 +1,9 @@
+# How to install MySQL Workbench
+
+## Install MySQL Server
+   - Download
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/wooyoyohehe/MySQL_Workbench_Installation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
