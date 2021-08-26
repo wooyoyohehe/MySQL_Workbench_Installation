@@ -1,7 +1,24 @@
 # How to install MySQL Workbench
 
 ## Install MySQL Server
-   - Download
+   - Download MySQL Server from [here](https://dev.mysql.com/downloads/mysql/)
+   - Open what you have downloaded
+   - Click continue and then install
+   - Set a password for root user and remember it
+## Verify MySQL Server
+   - Open System preferences
+   - 
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## Welcome to GitHub Pages
