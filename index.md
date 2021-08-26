@@ -18,9 +18,9 @@
    - Download MySQL Workbench from [here](https://dev.mysql.com/downloads/workbench/)
    - Open what you have downloaded
    - Click continue and then install
-   - 
-
-
+   - Open MySQL Workbench, an interface like this means you succeed
+   
+   <img src="https://github.com/wooyoyohehe/MySQL_Workbench_Installation/blob/gh-pages/Screen%20Shot%202021-08-25%20at%2011.00.13%20PM.png" width="50%">
 
 
 
